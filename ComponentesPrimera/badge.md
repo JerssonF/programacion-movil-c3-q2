@@ -127,4 +127,4 @@ Etiqueta pequeña para mostrar notificaciones o estados.
   ```
 
 
-
+![Badge](img\badge.png)

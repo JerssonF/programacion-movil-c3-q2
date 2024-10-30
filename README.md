@@ -76,7 +76,7 @@ En este proyecto encontrarás los siguientes componentes:
 ## Evidencias componentes primera parte
 Este repositorio contiene las evidencias de funcionamiento de los componentes desarrollados para cada componente ha sido probado de manera individual para asegurar que cumple con los requisitos técnicos y funcionales especificados. 
 
-* [Badge](img/badge.png)
+* [Badge](ComponentesPrimera\img\badge.png)
 * [Card](img/card.jpg)
 * [Checkbox](img/checkbox.png)
 * [Chip](img/chip.png)
