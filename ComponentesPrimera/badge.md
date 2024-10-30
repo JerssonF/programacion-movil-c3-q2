@@ -80,8 +80,7 @@ Componente Badge
     </ion-content>
   </ion-page>
 </template>
-```
-```js
+
 <script setup lang="ts">
 import icons from '@/components/icons.vue';
 import badge from '@/components/badge.vue';
