@@ -14,6 +14,7 @@ El objetivo es ofrecer una serie de componentes básicos y comunes que puedan se
   - [Instalación del Proyecto](#instalación-del-proyecto)
   - [Ejecución del Proyecto](#ejecución-del-proyecto)
 - [Componentes Incluidos](#componentes-incluidos)
+  - [Evidencias componentes primera parte](#evidencias-componentes-primera-parte)
  
 
 ## Requisitos Previos
@@ -72,7 +73,8 @@ En este proyecto encontrarás los siguientes componentes:
 
 **Cada componente vendrá con ejemplos de uso, opciones de configuración y guías para personalizar su apariencia y comportamiento.**
 
-
+## Evidencias componentes primera parte
+[Badge](img/badge.png)
 
 
 
