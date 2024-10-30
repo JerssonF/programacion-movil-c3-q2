@@ -28,7 +28,7 @@ Tarjeta para presentar información de forma visual.
 
    ## Vista.
 
-     ```js
+```js
 <template>
   <ion-page>
     <ion-header :translucent="true">
