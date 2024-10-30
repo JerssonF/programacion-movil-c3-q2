@@ -1,8 +1,8 @@
 # Badge.
-#### Etiqueta pequeña para mostrar notificaciones o estados.
+Etiqueta pequeña para mostrar notificaciones o estados.
 
 
-Componente Badge
+## Componente Badge
 ```js
 <template>
     <ion-list>
@@ -44,7 +44,7 @@ Componente Badge
   
   ```
 
-  Vista
+ ## Vista
   ```js
 <template>
   <ion-page>
@@ -80,7 +80,6 @@ Componente Badge
     </ion-content>
   </ion-page>
 </template>
-
 <script setup lang="ts">
 import icons from '@/components/icons.vue';
 import badge from '@/components/badge.vue';
@@ -130,5 +129,4 @@ import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/vue
 
 
 ## Evidencias
-
-![Badge](Evidencias/badge.png)
+![Badge](ComponentesPrimera/badge.png)
