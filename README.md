@@ -65,7 +65,7 @@ En este proyecto encontrarás los siguientes componentes:
 - [Checkbox](ComponentesPrimera/checkbox.md)
 - [Chip](CompoonentesPrimera/chip.md) 
 - [Button](ComponentesPrimera/button-md) 
-- Content: Contenedor para organizar el contenido de la página.
+- [Content](ComponentesPrimera/content.md) 
 - Custom: Componente personalizable para elementos específicos.
 - Grid: Sistema de cuadrícula para organizar el diseño.
 - Icons: Conjunto de íconos para mejorar la navegación y acciones.
@@ -81,6 +81,7 @@ Este repositorio contiene las evidencias de funcionamiento de los componentes de
 * [Checkbox](img/checkbox.png)
 * [Chip](img/chip.png)
 * [Button](img/colors.png)
+* [Content](img/content.png)
 
 
 
