@@ -1,30 +1,41 @@
-# Card
-Tarjeta para presentar información de forma visual.
+# Chip
+Elemento visual compacto para etiquetas o categorías.
 
-## Componente Card.
+## Componente Chip.
 ```js
 <template>
-    <ion-card>
-      <ion-card-header>
-        <ion-card-title>Card Title</ion-card-title>
-        <ion-card-subtitle>Card Subtitle</ion-card-subtitle>
-      </ion-card-header>
+    <ion-chip>
+      <ion-avatar>
+        <img alt="Silhouette of a person's head" src="https://ionicframework.com/docs/img/demos/avatar.svg" />
+      </ion-avatar>
+      <ion-label>Avatar Chip</ion-label>
+      <ion-icon :icon="closeCircle"></ion-icon>
+    </ion-chip>
   
-      <ion-card-content>
-        Here's a small text description for the card content. Nothing more, nothing less.
-      </ion-card-content>
-    </ion-card>
+    <ion-chip>
+      <ion-icon :icon="pin" color="primary"></ion-icon>
+      <ion-label>Icon Chip</ion-label>
+      <ion-icon :icon="close"></ion-icon>
+    </ion-chip>
   </template>
   
   <script lang="ts">
-    import { IonCard, IonCardContent, IonCardHeader, IonCardSubtitle, IonCardTitle } from '@ionic/vue';
+    import { IonChip, IonAvatar, IonLabel, IonIcon } from '@ionic/vue';
+    import { close, closeCircle, pin } from 'ionicons/icons';
     import { defineComponent } from 'vue';
   
     export default defineComponent({
-      components: { IonCard, IonCardContent, IonCardHeader, IonCardSubtitle, IonCardTitle },
+      components: { IonChip, IonAvatar, IonLabel, IonIcon },
+      setup() {
+        return {
+          close,
+          closeCircle,
+          pin,
+        };
+      },
     });
   </script>
-   ```
+  ```
 
    ## Vista.
 

@@ -62,8 +62,8 @@ En este proyecto encontrarás los siguientes componentes:
 
 - [Badge](ComponentesPrimera/badge.md)
 - [Card](ComponentesPrimera/card.md)
-- Checkbox: Casilla para selección múltiple de opciones.
-- Chip: Elemento visual compacto para etiquetas o categorías.
+- [Checkbox](ComponentesPrimera/checkbox.md)
+- [Chip](CompoonentesPrimera/chip.md) 
 - Button: Botón interactivo para acciones del usuario.
 - Content: Contenedor para organizar el contenido de la página.
 - Custom: Componente personalizable para elementos específicos.
@@ -74,7 +74,10 @@ En este proyecto encontrarás los siguientes componentes:
 **Cada componente vendrá con ejemplos de uso, opciones de configuración y guías para personalizar su apariencia y comportamiento.**
 
 ## Evidencias componentes primera parte
-[Badge](img/badge.png)
+* [Badge](img/badge.png)
+* [Card](img/card.jpg)
+* [Checkbox](img/checkbox.png)
+* [Chip](img/chip.png)
 
 
 

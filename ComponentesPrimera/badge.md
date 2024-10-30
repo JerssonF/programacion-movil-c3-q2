@@ -127,5 +127,4 @@ Etiqueta pequeña para mostrar notificaciones o estados.
   ```
 
 
-## Evidencia
-![Badge](img/badge.png)
+

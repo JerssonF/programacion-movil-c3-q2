@@ -1,30 +1,33 @@
-# Card
-Tarjeta para presentar información de forma visual.
+# Checkbox
+Casilla para selección múltiple de opciones.
 
-## Componente Card.
+## Componente Checkbox.
 ```js
 <template>
-    <ion-card>
-      <ion-card-header>
-        <ion-card-title>Card Title</ion-card-title>
-        <ion-card-subtitle>Card Subtitle</ion-card-subtitle>
-      </ion-card-header>
+    <ion-checkbox label-placement="start">Label at the Start</ion-checkbox>
   
-      <ion-card-content>
-        Here's a small text description for the card content. Nothing more, nothing less.
-      </ion-card-content>
-    </ion-card>
+    <br />
+  
+    <ion-checkbox label-placement="end">Label at the End</ion-checkbox>
+  
+    <br />
+  
+    <ion-checkbox label-placement="fixed">Fixed Width Label</ion-checkbox>
+  
+    <br />
+  
+    <ion-checkbox label-placement="stacked">Stacked Label</ion-checkbox>
   </template>
   
   <script lang="ts">
-    import { IonCard, IonCardContent, IonCardHeader, IonCardSubtitle, IonCardTitle } from '@ionic/vue';
+    import { IonCheckbox } from '@ionic/vue';
     import { defineComponent } from 'vue';
   
     export default defineComponent({
-      components: { IonCard, IonCardContent, IonCardHeader, IonCardSubtitle, IonCardTitle },
+      components: { IonCheckbox },
     });
   </script>
-   ```
+  ```
 
    ## Vista.
 
