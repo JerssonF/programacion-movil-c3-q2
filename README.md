@@ -60,7 +60,7 @@ Esto abrirá el proyecto en tu navegador predeterminado. Puedes acceder a la apl
 En este proyecto encontrarás los siguientes componentes:
 
 - [Badge](ComponentesPrimera/badge.md)
-- Card: Tarjeta para presentar información de forma visual.
+- [Card](ComponentesPrimera/card.md)
 - Checkbox: Casilla para selección múltiple de opciones.
 - Chip: Elemento visual compacto para etiquetas o categorías.
 - Button: Botón interactivo para acciones del usuario.
@@ -71,6 +71,7 @@ En este proyecto encontrarás los siguientes componentes:
 - Item: Elemento de lista para mostrar opciones o datos.
 
 **Cada componente vendrá con ejemplos de uso, opciones de configuración y guías para personalizar su apariencia y comportamiento.**
+
 
 
 
