@@ -45,9 +45,8 @@ Componente Badge
   ```
 
   Vista
-  
-  ```json
-  <template>
+  ```js
+<template>
   <ion-page>
     <ion-header :translucent="true">
       <ion-toolbar>
@@ -125,7 +124,10 @@ import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/vue
   text-decoration: none;
 }
 </style>
+
+
 ```
+
 
 ## Evidencias
 
