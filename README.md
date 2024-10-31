@@ -68,7 +68,7 @@ En este proyecto encontrarás los siguientes componentes:
 - [Content](ComponentesPrimera/content.md) 
 - [Custom](ComponentesPrimera/custom.md)
 - [Grid](ComponentesPrimera/grid.md) 
-- Icons: Conjunto de íconos para mejorar la navegación y acciones.
+- [Icons](ComponentesPrimera/icons.md) 
 - Item: Elemento de lista para mostrar opciones o datos.
 
 **Cada componente vendrá con ejemplos de uso, opciones de configuración y guías para personalizar su apariencia y comportamiento.**
@@ -84,6 +84,7 @@ Este repositorio contiene las evidencias de funcionamiento de los componentes de
 * [Content](img/content.png)
 * [Custom](img/custom.png)
 * [Grid](img/grid.png)
+* [Icons](img/icons.png)
 
 
 

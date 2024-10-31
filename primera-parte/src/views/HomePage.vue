@@ -18,16 +18,16 @@
         <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
      
       </div>
-      <color></color>
-      <icons></icons>
+      <color></color>     
       <badge></badge>
       <card></card>
       <checkbox></checkbox>
       <chip></chip>
       <content></content>
       <custom></custom>
-      <grid></grid>  
-      <item></item>    
+      <grid></grid>     
+      <item></item> 
+      <icons></icons>    
       
     </ion-content>
   </ion-page>
