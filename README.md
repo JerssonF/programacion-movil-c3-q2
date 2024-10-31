@@ -14,7 +14,6 @@ El objetivo es ofrecer una serie de componentes básicos y comunes que puedan se
   - [Instalación del Proyecto](#instalación-del-proyecto)
   - [Ejecución del Proyecto](#ejecución-del-proyecto)
 - [Componentes Incluidos](#componentes-incluidos)
-  - [Evidencias componentes primera parte](#evidencias-componentes-primera-parte)
  
 
 ## Requisitos Previos
@@ -73,15 +72,6 @@ En este proyecto encontrarás los siguientes componentes:
 
 **Cada componente vendrá con ejemplos de uso, opciones de configuración y guías para personalizar su apariencia y comportamiento.**
 
-## Evidencias componentes primera parte
-Este repositorio contiene las evidencias de funcionamiento de los componentes desarrollados para cada componente ha sido probado de manera individual para asegurar que cumple con los requisitos técnicos y funcionales especificados. 
-
-* [Badge](ComponentesPrimera\img\badge.png)
-* [Card](img/card.jpg)
-* [Checkbox](img/checkbox.png)
-* [Chip](img/chip.png)
-* [Button](img/colors.png)
-* [Content](img/content.png)
 
 
 
