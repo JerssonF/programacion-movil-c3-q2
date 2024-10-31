@@ -69,7 +69,7 @@ En este proyecto encontrarás los siguientes componentes:
 - [Custom](ComponentesPrimera/custom.md)
 - [Grid](ComponentesPrimera/grid.md) 
 - [Icons](ComponentesPrimera/icons.md) 
-- Item: Elemento de lista para mostrar opciones o datos.
+- [Item](ComponentesPrimera/item.md)
 
 **Cada componente vendrá con ejemplos de uso, opciones de configuración y guías para personalizar su apariencia y comportamiento.**
 
