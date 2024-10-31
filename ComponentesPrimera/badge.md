@@ -4,7 +4,7 @@ Etiqueta pequeña para mostrar notificaciones o estados.
 
 ## Componente Badge.
 ```js
-<template>
+  <template>
     <ion-list>
       <ion-item>
         <ion-label>Followers</ion-label>
@@ -42,7 +42,7 @@ Etiqueta pequeña para mostrar notificaciones o estados.
     });
   </script>
   
-  ```
+ ```
 
  ## Vista
  

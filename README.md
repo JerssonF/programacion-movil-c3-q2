@@ -66,7 +66,7 @@ En este proyecto encontrarás los siguientes componentes:
 - [Chip](CompoonentesPrimera/chip.md) 
 - [Button](ComponentesPrimera/button-md) 
 - [Content](ComponentesPrimera/content.md) 
-- [Custom](ComponentesPrimera\custom.md) Componente personalizable para elementos específicos.
+- [Custom](ComponentesPrimera/custom.md)
 - Grid: Sistema de cuadrícula para organizar el diseño.
 - Icons: Conjunto de íconos para mejorar la navegación y acciones.
 - Item: Elemento de lista para mostrar opciones o datos.
@@ -82,6 +82,7 @@ Este repositorio contiene las evidencias de funcionamiento de los componentes de
 * [Chip](img/chip.png)
 * [Button](img/colors.png)
 * [Content](img/content.png)
+* [Custom](img/custom.png)
 
 
 
