@@ -67,7 +67,7 @@ En este proyecto encontrarás los siguientes componentes:
 - [Button](ComponentesPrimera/button-md) 
 - [Content](ComponentesPrimera/content.md) 
 - [Custom](ComponentesPrimera/custom.md)
-- [Grid](ComponentesPrimera\grid.md) 
+- [Grid](ComponentesPrimera/grid.md) 
 - Icons: Conjunto de íconos para mejorar la navegación y acciones.
 - Item: Elemento de lista para mostrar opciones o datos.
 
