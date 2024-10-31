@@ -126,3 +126,4 @@ Etiqueta pequeña para mostrar notificaciones o estados.
   </style>
   ```
 
+[Ver evidencia](ComponentesPrimera\imagenes\badge.png)
