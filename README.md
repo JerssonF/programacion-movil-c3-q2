@@ -83,6 +83,7 @@ Este repositorio contiene las evidencias de funcionamiento de los componentes de
 * [Button](img/colors.png)
 * [Content](img/content.png)
 * [Custom](img/custom.png)
+* [Grid](img/grid.png)
 
 
 
