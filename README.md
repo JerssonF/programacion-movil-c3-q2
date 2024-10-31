@@ -19,7 +19,6 @@ El objetivo es ofrecer una serie de componentes básicos y comunes que puedan se
   - [Evidencias componentes primera parte](#evidencias-componentes-primera-parte)
 - [Segunda Parte](#segunda-parte)
 - [2. Componentes Agrupados](#2-componentes-agrupados)
-- [Contenido](#contenido-1)
  
 
 ## Requisitos Previos
@@ -97,8 +96,7 @@ Este repositorio contiene las evidencias de funcionamiento de los componentes de
 
 En esta sección, se desarrollarán tres componentes que combinan múltiples elementos en una sola unidad funcional. Estos componentes permiten encapsular diversas funcionalidades de manera organizada, promoviendo la modularidad y reutilización del código. La agrupación de elementos en un solo componente simplifica la estructura de la aplicación y facilita su mantenimiento y expansión.
 
-# Contenido
-
+- [Notification](ComponentesSegunda/notification.md)
 
 
 
