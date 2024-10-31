@@ -1,20 +1,25 @@
 # programacion-movil-c3-q2
-# Introducción al Proyecto de Componentes
+# Primera parte
+# 1. Introducción al Proyecto de Componentes
 Este proyecto se enfoca en la creación de 10 componentes individuales en [lenguaje/plataforma de desarrollo]. Estos componentes están diseñados para generar elementos específicos de la interfaz de usuario, proporcionando una base sólida para el desarrollo de aplicaciones web. Cada componente es independiente y reutilizable, lo que permite una fácil integración en cualquier parte de tu proyecto.
 
 # Objetivo del Proyecto
 El objetivo es ofrecer una serie de componentes básicos y comunes que puedan ser utilizados para construir interfaces de usuario de manera eficiente. Cada componente incluye su funcionalidad, diseño y propiedades configurables para adaptarse a diferentes escenarios.
 
-## Contenido
+# Contenido
 - [programacion-movil-c3-q2](#programacion-movil-c3-q2)
-- [Introducción al Proyecto de Componentes](#introducción-al-proyecto-de-componentes)
+- [Primera parte](#primera-parte)
+- [1. Introducción al Proyecto de Componentes](#1-introducción-al-proyecto-de-componentes)
 - [Objetivo del Proyecto](#objetivo-del-proyecto)
-  - [Contenido](#contenido)
+- [Contenido](#contenido)
   - [Requisitos Previos](#requisitos-previos)
   - [Instalación del Proyecto](#instalación-del-proyecto)
   - [Ejecución del Proyecto](#ejecución-del-proyecto)
-- [Componentes Incluidos](#componentes-incluidos)
+  - [Componentes Incluidos](#componentes-incluidos)
   - [Evidencias componentes primera parte](#evidencias-componentes-primera-parte)
+- [Segunda Parte](#segunda-parte)
+- [2. Componentes Agrupados](#2-componentes-agrupados)
+- [Contenido](#contenido-1)
  
 
 ## Requisitos Previos
@@ -57,7 +62,7 @@ ionic serve
 
 Esto abrirá el proyecto en tu navegador predeterminado. Puedes acceder a la aplicación desde http://localhost:8100.
 
-# Componentes Incluidos
+## Componentes Incluidos
 En este proyecto encontrarás los siguientes componentes:
 
 - [Badge](ComponentesPrimera/badge.md)
@@ -85,6 +90,15 @@ Este repositorio contiene las evidencias de funcionamiento de los componentes de
 * [Custom](img/custom.png)
 * [Grid](img/grid.png)
 * [Icons](img/icons.png)
+
+# Segunda Parte
+
+# 2. Componentes Agrupados
+
+En esta sección, se desarrollarán tres componentes que combinan múltiples elementos en una sola unidad funcional. Estos componentes permiten encapsular diversas funcionalidades de manera organizada, promoviendo la modularidad y reutilización del código. La agrupación de elementos en un solo componente simplifica la estructura de la aplicación y facilita su mantenimiento y expansión.
+
+# Contenido
+
 
 
 
